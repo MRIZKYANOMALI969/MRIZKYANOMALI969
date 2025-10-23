@@ -1,4 +1,3 @@
-
 <!DOCTYPE html>
 <html>
 <head>
@@ -16,7 +15,7 @@
 <button style=color: #FB4141; background-color: #DBFFCB; border: none; font-size: 24px; font-style: italic; width 250px; height: 50px; border-radius: 10px;" onclick="alert('Halo, selamat datang di website saya !')">Tekan Saya !</button>
 <br><br>
 <marquee direction="right">
-  <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pinterest.com%2Fpin%2F544372673708194794%2F&psig=AOvVaw1uO0767dFyYOGR6UaxGmo0&ust=1761280227052000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCIjBsqW-uZADFQAAAAAdAAAAABAE">
+  <img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQi0PDfyyodLAdbPjWwlzDCl2cVsAJdXsOUZu_z1K6uVBYyJsXP0AdiIWAxnQGqzYM9eTDcc-JOlxILrdfj4GqfHEkwFwaO_m0bER0TRQ" alt="bike" style="width; 200px;">
  
 </body>
 </html>
